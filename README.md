@@ -25,7 +25,6 @@
   <a href="mailto:justhackedon@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.facebook.com/profile.php?id=100090969289129"><img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white"></a>
   <a href="https://instagram.com/x.abdul_ahad"><img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://www.youtube.com/channel/UCaORlp7M0XfECyfSTxXPrgQ"><img src="https://img.shields.io/badge/YouTube-black?style=for-the-badge&logo=youtube&logoColor=red"></a>
 </p>
 
 ---
