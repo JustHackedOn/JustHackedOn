@@ -30,7 +30,7 @@
 
 ---
 
-### 🛠️ Languages & Tools
+### ⚒️ Languages & Tools I Use
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
@@ -43,20 +43,23 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=justhackedon&show_icons=true&theme=github_dark" alt="Stats" />
-</p>
+### 📚 Projects & Tools I Built
+| Project Name        | Description                                                                 | Tech Stack              |
+|---------------------|-----------------------------------------------------------------------------|--------------------------|
+| **Wi-Fi Probe Sniffer** | Captures probe requests from nearby devices and generates custom wordlists | Python, Scapy            |
+| **ESP32 BLE Jammer**    | BLE jamming tool built for college project using ESP32 board              | ESP32, Arduino, C++      |
+| **XSS Auto-Defacer**    | Script to automate basic XSS defacements for educational use              | JavaScript, HTML         |
+| **Webhook Splitter**    | Sends data to two Discord webhooks simultaneously                         | Python, Base64, Requests |
+| **C2 Config Tool**      | Reads encoded config values from YAML into malware-style scripts          | Python, YAML             |
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=justhackedon&theme=dark&hide_border=false" alt="Streak" />
-</p>
+> ⚠️ All tools are for **educational** and **legal pentesting** purposes only.
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=justhackedon&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Top Languages" />
-</p>
+---
+
+### 🎯 Goal for 2025
+> 🚀 Build a full-fledged open-source Cybersecurity Toolkit for Pentesters
 
 ---
 
 ### ⚡ Fun Fact
-**Security is just an illusion.** 😄  
+**Security is just an illusion.** 😄
