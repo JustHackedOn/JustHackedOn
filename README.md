@@ -43,23 +43,5 @@
 
 ---
 
-### 📚 Projects & Tools I Built
-| Project Name        | Description                                                                 | Tech Stack              |
-|---------------------|-----------------------------------------------------------------------------|--------------------------|
-| **Wi-Fi Probe Sniffer** | Captures probe requests from nearby devices and generates custom wordlists | Python, Scapy            |
-| **ESP32 BLE Jammer**    | BLE jamming tool built for college project using ESP32 board              | ESP32, Arduino, C++      |
-| **XSS Auto-Defacer**    | Script to automate basic XSS defacements for educational use              | JavaScript, HTML         |
-| **Webhook Splitter**    | Sends data to two Discord webhooks simultaneously                         | Python, Base64, Requests |
-| **C2 Config Tool**      | Reads encoded config values from YAML into malware-style scripts          | Python, YAML             |
-
-> ⚠️ All tools are for **educational** and **legal pentesting** purposes only.
-
----
-
-### 🎯 Goal for 2025
-> 🚀 Build a full-fledged open-source Cybersecurity Toolkit for Pentesters
-
----
-
 ### ⚡ Fun Fact
 **Security is just an illusion.** 😄
